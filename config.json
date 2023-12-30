@@ -1,0 +1,17 @@
+{
+  "radioCommand": [
+    "put",
+    "here",
+    "your",
+    "radio",
+    "command"
+  ],
+  "volumeCommand": [
+    "put",
+    "here",
+    "your",
+    "volume",
+    "command"
+  ],
+  "tickTime": 500
+}
